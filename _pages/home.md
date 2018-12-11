@@ -6,7 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+"Uh... Wil, sir. It matches my mood. Empty. 
+Love to stay in -- but not with these cards. 
+Riker to Enterprise -- do you read? And your 
+position in this, Captain? Hold it, Aaron! 
+Hypothetically speaking. I haven't. I am 
+simply trying to get you to understand. The Bynars!"
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
